@@ -1,5 +1,10 @@
 # Rise Up - OpenGL + Pygame Edition 🎈🛡️
 
+
+<p align="center">
+  <img src="riseup_game_banner.png" alt="RiseUP Game Banner" width="100%">
+</p>
+
 This is a 2D **Rise Up-style game** created using **Python**, **Pygame**, and **OpenGL**.  
 The player controls a shield to protect a rising balloon from obstacles and falling objects.
 
